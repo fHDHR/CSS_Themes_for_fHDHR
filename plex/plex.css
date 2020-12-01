@@ -1,0 +1,39 @@
+hr {
+  border-top: 1px solid #e5a00d;
+  border: 1px solid #e59029;
+}
+
+input {
+  background-color: #cc7b19;
+  color: #dedede;
+}
+
+select {
+  background-color: #cc7b19;
+  color: #dedede;
+}
+
+button {
+  background-color: #e5a00d;
+  color: #dedede;
+  font-weight: bold;
+}
+
+a:link, a:visited {
+  color: #e5a00d;
+}
+
+body {
+  background-image: url('https://raw.githubusercontent.com//fHDHR/CSS_Themes_for_fHDHR/master/plex/background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #dedede;
+}
+
+h1 {
+  color: #dedede;
+}
+
+h4 {
+  color: #dedede;
+}
